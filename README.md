@@ -1,16 +1,23 @@
-## Hi there 👋
+```bash 
+varunTyagarayanG
 
-<!--
-**varunTyagarayanG/varunTyagarayanG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+OS: Windows 11 
+Uptime: 20 years 
+Host: Indian Institutes of Information Technology Sricity #IIITS
+Kernel: Computer Science and Engineering #CSE
+IDE: IntelliJ IDEA 2024.2.4, VSCode 1.95.3
 
-Here are some ideas to get you started:
+Languages.Programming: Java, C++, C, JavaScript 
+Languages.Computer: HTML, CSS, JSON, Markdown
+Languages.Real: English, Hindi, Telugu
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hobbies.Software: Machine Learning, Web Development , LeetCode 
+Hobbies.Hardware: Table-Tennis 
+
+Contact:
+  Email: varuntyagarayan.g@gmail.com
+  LinkedIn: Varun Tyagarayan Gadigala
+  Leetcode: Tyaggs
+
+GitHub Stats:
+Repos: 27 | Commits: 82 | PR : 8
