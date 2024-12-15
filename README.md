@@ -5,7 +5,7 @@ OS: Windows 11
 Uptime: 20 years 
 Host: Indian Institutes of Information Technology Sricity #IIITS
 Kernel: Computer Science and Engineering #CSE
-IDE: IntelliJ IDEA 2024.2.4, VSCode 1.95.3
+IDE: IntelliJ IDEA 2024.2.4(Student Edition will expire in DEC 2025), VSCode 1.95.3
 
 Languages.Programming: Java, C++, C, JavaScript 
 Languages.Computer: HTML, CSS, JSON, Markdown
