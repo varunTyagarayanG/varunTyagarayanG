@@ -1,23 +1,32 @@
-```bash 
-varunTyagarayanG
 
-OS: Windows 11 
-Uptime: 20 years 
-Host: Indian Institutes of Information Technology Sricity #IIITS
-Kernel: Computer Science and Engineering #CSE
-IDE: IntelliJ IDEA 2024.2.4(Student Edition will expire in DEC 2025), VSCode 1.95.3
+```bash
+# Varun Tyagarayan Gadigala  
 
-Languages.Programming: Java, C++, C, JavaScript 
-Languages.Computer: HTML, CSS, JSON, Markdown
-Languages.Real: English, Hindi, Telugu
+OS="Windows 11"
+UPTIME="20 years"
+HOST="Indian Institute of Information Technology Sri City (#IIITS)"
+KERNEL="Computer Science and Engineering (#CSE)"
+IDE="IntelliJ IDEA 2024.2.4 (Student Edition, expires Dec 2025)" "Visual Studio Code 1.95.3"
 
-Hobbies.Software: Machine Learning, Web Development , LeetCode 
-Hobbies.Hardware: Table-Tennis 
+# Programming Languages
+LANGUAGES_PROGRAMMING="Java" "C++" "C" "JavaScript"
+LANGUAGES_COMPUTER="HTML" "CSS" "JSON" "Markdown"
 
-Contact:
-  Email: varuntyagarayan.g@gmail.com
-  LinkedIn: Varun Tyagarayan Gadigala
-  Leetcode: Tyaggs
+# Spoken Languages
+LANGUAGES_REAL="English" "Hindi" "Telugu"
 
-GitHub Stats:
-Repos: 27 | Commits: 82 | PR : 8
+# Hobbies
+HOBBIES_SOFTWARE="Machine Learning" "Web Development" "LeetCode"
+HOBBIES_HARDWARE="Table Tennis" "Chess"
+
+# Contact Information
+EMAIL="varuntyagarayan.g@gmail.com"
+LINKEDIN="Varun Tyagarayan Gadigala"
+LEETCODE="Tyaggs"
+
+# GitHub Stats
+REPOS=27
+COMMITS=82
+PR=8
+
+echo "Always open to collaboration and learning!"
