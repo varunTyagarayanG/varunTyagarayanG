@@ -2,7 +2,7 @@
 ```bash
 # Varun Tyagarayan Gadigala  
 
-OS="Windows 11"
+OS="Windows 11 and Ubuntu 22.04"
 UPTIME="20 years"
 HOST="Indian Institute of Information Technology Sri City (#IIITS)"
 KERNEL="Computer Science and Engineering (#CSE)"
@@ -16,7 +16,7 @@ LANGUAGES_COMPUTER="HTML" "CSS" "JSON" "Markdown"
 LANGUAGES_REAL="English" "Hindi" "Telugu"
 
 # Hobbies
-HOBBIES_SOFTWARE="Machine Learning" "Web Development" "LeetCode"
+HOBBIES_SOFTWARE="Machine Learning" "Web Development" "LeetCode" "System Design"
 HOBBIES_HARDWARE="Table Tennis" "Chess"
 
 # Contact Information
