@@ -9,11 +9,7 @@ KERNEL="Computer Science and Engineering (#CSE)"
 IDE="IntelliJ IDEA 2024.2.4 (Student Edition, expires Dec 2025)" "Visual Studio Code 1.95.3"
 
 # Programming Languages
-LANGUAGES_PROGRAMMING="Java" "C++" "C" "JavaScript"
-LANGUAGES_COMPUTER="HTML" "CSS" "JSON" "Markdown"
-
-# Spoken Languages
-LANGUAGES_REAL="English" "Hindi" "Telugu"
+LANGUAGES_PROGRAMMING="Java" "C++" "C" "JavaScript" "Python" 
 
 # Hobbies
 HOBBIES_SOFTWARE="Machine Learning" "Web Development" "LeetCode" "System Design"
